@@ -1,4 +1,4 @@
-# travel
+# Travel
 
 > A Vue.js project
 
